@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francesco Fallica
 =========================================================================================================================================
 
-Robotics Engineer
+Robotics Engineer | Robotics Researcher
 -----------------
 
 Robotics Engineer in love with AMRs.
 
-*   🌍  I'm based in Lisbon (PT)
+*   🌍  I'm based in Barcelona
 *   ✉️  You can contact me at [francesco.fall@outlook.it](mailto:francesco.fall@outlook.it)
-*   🚀  I'm currently working on [Tugbot](http://tugbot.com/)
+*   🚀  I'm currently working on [Eurecat](https://eurecat.org/)
 *   🧠  I'm learning Advanced C++ and Algorithms
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I'm Iron Man (you wouldn't expect it...)
