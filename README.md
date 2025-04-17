@@ -1,13 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francesco Fallica
 =========================================================================================================================================
 
-Robotics Engineer | Robotics Researcher
+Software Robotics Engineer | Robotics Researcher
 -----------------
 
 Robotics Engineer in love with AMRs.
-
-*   🚀  I'm currently working at [Eurecat](https://eurecat.org/) as Robotics Researcher.
-*   My current focus is to manage fleet of ground robots.
 
 ### Skills 
 <p align="left">
