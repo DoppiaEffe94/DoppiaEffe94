@@ -6,8 +6,6 @@ Robotics Engineer | Robotics Researcher
 
 Robotics Engineer in love with AMRs.
 
-*   🌍  I'm based in Barcelona, Spain.
-*   ✉️  You can contact me at [francesco.fall@outlook.it](mailto:francesco.fall@outlook.it).
 *   🚀  I'm currently working at [Eurecat](https://eurecat.org/) as Robotics Researcher.
 *   My current focus is to manage fleet of ground robots.
 
